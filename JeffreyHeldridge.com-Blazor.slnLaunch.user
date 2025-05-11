@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "RestAPI\\RestAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazorUI\\BlazorUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

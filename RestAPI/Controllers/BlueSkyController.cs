@@ -3,6 +3,8 @@ using RestAPI.Interfaces;
 
 namespace RestAPI.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class BlueSkyController : ControllerBase
     {
         private readonly IBlueSkyService _blueskyService;

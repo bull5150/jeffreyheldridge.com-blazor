@@ -1,0 +1,44 @@
+﻿@page "/bluesky"
+@using Blazor.UI.Services
+@using CommonCore.Models.BlueSky
+
+@inject HTTPBlueSkyService _HTTPBlueSkyService
+
+
+<PageTitle>BlueSky</PageTitle>
+
+hello you!
+
+@if(_loading == true)
+{
+    <svg class="loading-progress">
+        <circle r="40%" cx="50%" cy="50%" />
+        <circle r="40%" cx="50%" cy="50%" />
+    </svg>
+    <div class="loading-progress-text"></div>
+}
+else
+{
+    @foreach (BlueSkyFeedItem post in posts.Feed)
+    {
+        <h3>@post.Post.record.text</h3>
+        if (post.Post.embed.images != null)
+        {
+            <img src="@post.Post.embed.images[0].thumb" />
+        }
+    }
+}
+
+
+
+
+@code {
+    bool _loading = true;
+    private BlueSkyFeedResponse posts = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        posts = await _HTTPBlueSkyService.GetLatestPostsAsync();
+        _loading = false;
+    }
+}

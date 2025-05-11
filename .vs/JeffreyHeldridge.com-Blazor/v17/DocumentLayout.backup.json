@@ -3,47 +3,76 @@
   "WorkspaceRootPath": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7B5C98B-7B9B-4577-9FF1-1D58F1A6C665}|Tests\\Tests.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\tests\\servicetests\\blueskyserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7B5C98B-7B9B-4577-9FF1-1D58F1A6C665}|Tests\\Tests.csproj|solutionrelative:tests\\servicetests\\blueskyserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\services\\blueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\services\\blueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\interfaces\\iblueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\interfaces\\iblueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\controllers\\blueskycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\blueskycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\pages\\bluesky.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\pages\\bluesky.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50442283-290A-48F4-9943-3714AE81419D}|CommonCore\\CommonCore.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\commoncore\\models\\bluesky\\blueskyfeedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50442283-290A-48F4-9943-3714AE81419D}|CommonCore\\CommonCore.csproj|solutionrelative:commoncore\\models\\bluesky\\blueskyfeedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\services\\httpblueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\services\\httpblueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50442283-290A-48F4-9943-3714AE81419D}|CommonCore\\CommonCore.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\commoncore\\models\\blueskysessionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50442283-290A-48F4-9943-3714AE81419D}|CommonCore\\CommonCore.csproj|solutionrelative:commoncore\\models\\blueskysessionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bull5\\AppData\\Roaming\\Microsoft\\UserSecrets\\149dba5c-435b-4d15-9e73-2dc9ca257efc\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\pages\\bluesky.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\pages\\bluesky.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\controllers\\blueskycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\blueskycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\services\\blueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\services\\blueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50442283-290A-48F4-9943-3714AE81419D}|CommonCore\\CommonCore.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\commoncore\\commoncore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50442283-290A-48F4-9943-3714AE81419D}|CommonCore\\CommonCore.csproj|solutionrelative:commoncore\\commoncore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\blazor.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\blazor.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\blazor.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56F8A981-A21B-4B1C-8983-C9A93BA8EFFC}|Blazor.UI\\Blazor.UI.csproj|solutionrelative:blazor.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -52,6 +81,35 @@
     {
       "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bull5\\AppData\\Local\\Temp\\.vsdbgsrc\\274f96d6f0be3383d08bfb40893c66792a85e25548528754128733f0305383a0\\LocalhostListenOptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bull5\\AppData\\Local\\Temp\\.vsdbgsrc\\7f988d92f74adc3858f108e90f6756bdbd458bdc1dfe85ac599bdac763b3f931\\AddressBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B5C98B-7B9B-4577-9FF1-1D58F1A6C665}|Tests\\Tests.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\tests\\servicetests\\blueskyserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B5C98B-7B9B-4577-9FF1-1D58F1A6C665}|Tests\\Tests.csproj|solutionrelative:tests\\servicetests\\blueskyserviceunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\restapi\\interfaces\\iblueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C082EA4F-4E2E-42CF-A231-0F5258D8D6D1}|RestAPI\\RestAPI.csproj|solutionrelative:restapi\\interfaces\\iblueskyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bull5\\AppData\\Roaming\\Microsoft\\UserSecrets\\149dba5c-435b-4d15-9e73-2dc9ca257efc\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7B5C98B-7B9B-4577-9FF1-1D58F1A6C665}|Tests\\Tests.csproj|c:\\repos\\jeffreyheldridge.com-blazor\\jeffreyheldridge.com-blazor\\tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,48 +123,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BlueSkyServiceUnitTests.cs",
-              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Tests\\ServiceTests\\BlueSkyServiceUnitTests.cs",
-              "RelativeDocumentMoniker": "Tests\\ServiceTests\\BlueSkyServiceUnitTests.cs",
-              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Tests\\ServiceTests\\BlueSkyServiceUnitTests.cs",
-              "RelativeToolTip": "Tests\\ServiceTests\\BlueSkyServiceUnitTests.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwCQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:57:14.556Z",
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Blazor.UI\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Blazor.UI\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T00:16:07.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Blazor.UI\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Blazor.UI\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T00:16:06.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlueSky.razor.css",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Pages\\BlueSky.razor.css",
+              "RelativeDocumentMoniker": "Blazor.UI\\Pages\\BlueSky.razor.css",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Pages\\BlueSky.razor.css",
+              "RelativeToolTip": "Blazor.UI\\Pages\\BlueSky.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-10T23:53:57.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "RestAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HTTPBlueSkyService.cs",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Services\\HTTPBlueSkyService.cs",
+              "RelativeDocumentMoniker": "Blazor.UI\\Services\\HTTPBlueSkyService.cs",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Services\\HTTPBlueSkyService.cs",
+              "RelativeToolTip": "Blazor.UI\\Services\\HTTPBlueSkyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:43:00.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlueSkyFeedResponse.cs",
-              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\CommonCore\\Models\\BlueSky\\BlueSkyFeedResponse.cs",
-              "RelativeDocumentMoniker": "CommonCore\\Models\\BlueSky\\BlueSkyFeedResponse.cs",
-              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\CommonCore\\Models\\BlueSky\\BlueSkyFeedResponse.cs",
-              "RelativeToolTip": "CommonCore\\Models\\BlueSky\\BlueSkyFeedResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:25:27.886Z"
+              "WhenOpened": "2025-05-10T23:14:54.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,13 +185,14 @@
               "RelativeDocumentMoniker": "CommonCore\\Models\\BlueSkySessionResponse.cs",
               "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\CommonCore\\Models\\BlueSkySessionResponse.cs",
               "RelativeToolTip": "CommonCore\\Models\\BlueSkySessionResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T19:23:31.176Z"
+              "WhenOpened": "2025-05-10T19:23:31.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 27,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\bull5\\AppData\\Roaming\\Microsoft\\UserSecrets\\149dba5c-435b-4d15-9e73-2dc9ca257efc\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\bull5\\AppData\\Roaming\\Microsoft\\UserSecrets\\149dba5c-435b-4d15-9e73-2dc9ca257efc\\secrets.json",
@@ -134,67 +204,222 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BlueSkyController.cs",
-              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Controllers\\BlueSkyController.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Controllers\\BlueSkyController.cs",
-              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Controllers\\BlueSkyController.cs",
-              "RelativeToolTip": "RestAPI\\Controllers\\BlueSkyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Program.cs",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Program.cs",
+              "RelativeToolTip": "RestAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:23:07.302Z"
+              "WhenOpened": "2025-05-10T18:09:24.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBlueSkyService.cs",
-              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Interfaces\\IBlueSkyService.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Interfaces\\IBlueSkyService.cs",
-              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Interfaces\\IBlueSkyService.cs",
-              "RelativeToolTip": "RestAPI\\Interfaces\\IBlueSkyService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:19:46.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "BlueSkyService.cs",
               "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Services\\BlueSkyService.cs",
               "RelativeDocumentMoniker": "RestAPI\\Services\\BlueSkyService.cs",
               "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Services\\BlueSkyService.cs",
               "RelativeToolTip": "RestAPI\\Services\\BlueSkyService.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwEoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:19:27.893Z"
+              "WhenOpened": "2025-05-10T18:19:27.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlueSkyController.cs",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Controllers\\BlueSkyController.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Controllers\\BlueSkyController.cs",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Controllers\\BlueSkyController.cs",
+              "RelativeToolTip": "RestAPI\\Controllers\\BlueSkyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:23:07.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlueSkyFeedResponse.cs",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\CommonCore\\Models\\BlueSky\\BlueSkyFeedResponse.cs",
+              "RelativeDocumentMoniker": "CommonCore\\Models\\BlueSky\\BlueSkyFeedResponse.cs",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\CommonCore\\Models\\BlueSky\\BlueSkyFeedResponse.cs",
+              "RelativeToolTip": "CommonCore\\Models\\BlueSky\\BlueSkyFeedResponse.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:25:27.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlueSky.razor",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Pages\\BlueSky.razor",
+              "RelativeDocumentMoniker": "Blazor.UI\\Pages\\BlueSky.razor",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Pages\\BlueSky.razor",
+              "RelativeToolTip": "Blazor.UI\\Pages\\BlueSky.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T23:17:38.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\App.razor",
+              "RelativeDocumentMoniker": "Blazor.UI\\App.razor",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\App.razor",
+              "RelativeToolTip": "Blazor.UI\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T22:52:59.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Blazor.UI\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Blazor.UI\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-10T23:54:28.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Blazor.UI\\wwwroot\\index.html",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\wwwroot\\index.html",
+              "RelativeToolTip": "Blazor.UI\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-10T23:00:06.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Blazor.UI.csproj",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Blazor.UI.csproj",
+              "RelativeDocumentMoniker": "Blazor.UI\\Blazor.UI.csproj",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Blazor.UI.csproj",
+              "RelativeToolTip": "Blazor.UI\\Blazor.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T23:05:35.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Blazor.UI\\Program.cs",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Program.cs",
+              "RelativeToolTip": "Blazor.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T23:13:55.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Blazor.UI\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Pages\\Counter.razor",
+              "RelativeToolTip": "Blazor.UI\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T23:17:29.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommonCore.csproj",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\CommonCore\\CommonCore.csproj",
+              "RelativeDocumentMoniker": "CommonCore\\CommonCore.csproj",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\CommonCore\\CommonCore.csproj",
+              "RelativeToolTip": "CommonCore\\CommonCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T23:24:54.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T23:08:26.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "RestAPI.csproj",
               "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\RestAPI.csproj",
               "RelativeDocumentMoniker": "RestAPI\\RestAPI.csproj",
               "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\RestAPI.csproj",
               "RelativeToolTip": "RestAPI\\RestAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-10T18:06:39.324Z"
+              "WhenOpened": "2025-05-10T18:06:39.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Blazor.UI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Blazor.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Blazor.UI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T22:47:23.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BlueSkyServiceUnitTests.cs",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Tests\\ServiceTests\\BlueSkyServiceUnitTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ServiceTests\\BlueSkyServiceUnitTests.cs",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Tests\\ServiceTests\\BlueSkyServiceUnitTests.cs",
+              "RelativeToolTip": "Tests\\ServiceTests\\BlueSkyServiceUnitTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:57:14.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "RestAPI\\appsettings.Development.json",
               "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\appsettings.Development.json",
               "RelativeToolTip": "RestAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-10T18:25:58.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "RestAPI.http",
               "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\RestAPI.http",
               "RelativeDocumentMoniker": "RestAPI\\RestAPI.http",
@@ -206,31 +431,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Program.cs",
-              "RelativeDocumentMoniker": "RestAPI\\Program.cs",
-              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Program.cs",
-              "RelativeToolTip": "RestAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "AddressBinder.cs",
+              "DocumentMoniker": "C:\\Users\\bull5\\AppData\\Local\\Temp\\.vsdbgsrc\\7f988d92f74adc3858f108e90f6756bdbd458bdc1dfe85ac599bdac763b3f931\\AddressBinder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\bull5\\AppData\\Local\\Temp\\.vsdbgsrc\\7f988d92f74adc3858f108e90f6756bdbd458bdc1dfe85ac599bdac763b3f931\\AddressBinder.cs",
+              "ToolTip": "C:\\Users\\bull5\\AppData\\Local\\Temp\\.vsdbgsrc\\7f988d92f74adc3858f108e90f6756bdbd458bdc1dfe85ac599bdac763b3f931\\AddressBinder.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\bull5\\AppData\\Local\\Temp\\.vsdbgsrc\\7f988d92f74adc3858f108e90f6756bdbd458bdc1dfe85ac599bdac763b3f931\\AddressBinder.cs [Read Only]",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAiwKQAAAACAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:09:24.173Z"
+              "WhenOpened": "2025-05-10T21:59:57.489Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "RestAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "RestAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-10T18:32:55.34Z"
+              "DocumentIndex": 22,
+              "Title": "LocalhostListenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\bull5\\AppData\\Local\\Temp\\.vsdbgsrc\\274f96d6f0be3383d08bfb40893c66792a85e25548528754128733f0305383a0\\LocalhostListenOptions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\bull5\\AppData\\Local\\Temp\\.vsdbgsrc\\274f96d6f0be3383d08bfb40893c66792a85e25548528754128733f0305383a0\\LocalhostListenOptions.cs",
+              "ToolTip": "C:\\Users\\bull5\\AppData\\Local\\Temp\\.vsdbgsrc\\274f96d6f0be3383d08bfb40893c66792a85e25548528754128733f0305383a0\\LocalhostListenOptions.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\bull5\\AppData\\Local\\Temp\\.vsdbgsrc\\274f96d6f0be3383d08bfb40893c66792a85e25548528754128733f0305383a0\\LocalhostListenOptions.cs [Read Only]",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:55:31.34Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RestAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T19:43:00.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBlueSkyService.cs",
+              "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Interfaces\\IBlueSkyService.cs",
+              "RelativeDocumentMoniker": "RestAPI\\Interfaces\\IBlueSkyService.cs",
+              "ToolTip": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\RestAPI\\Interfaces\\IBlueSkyService.cs",
+              "RelativeToolTip": "RestAPI\\Interfaces\\IBlueSkyService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:19:46.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "C:\\Repos\\JeffreyHeldridge.com-Blazor\\JeffreyHeldridge.com-Blazor\\Tests\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "Tests\\MSTestSettings.cs",
